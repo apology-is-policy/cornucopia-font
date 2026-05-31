@@ -1,4 +1,6 @@
 # Cornucopia
 
 - Iosefka fork
-- Configured to be the default for Thylacine OS (Utopia/Halcyon shells)
+- The default font of Thylacine OS (Utopia/Halcyon shells)
+
+![](preview.png)
