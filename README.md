@@ -1,2 +1,4 @@
-# cornucopia-font
-Some kind of terminal font.
+# Cornucopia
+
+- Iosefka fork
+- Configured to be the default for Thylacine OS (Utopia/Halcyon shells)
